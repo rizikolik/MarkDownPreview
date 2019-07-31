@@ -12,6 +12,13 @@ handleChange(e){
 }
 
 render(){
+    {
+        <div>
+        <h1>This is a h1 </h1>
+        <h2>THİS is a h2 </h2>
+        <a href="#"> this is a link =></a>
+        </div>
+    }
     return(
 <div className="editor-wrapper">
 <textarea  id="editor" onChange={this.handleChange}>
