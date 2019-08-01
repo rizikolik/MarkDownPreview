@@ -1,9 +1,6 @@
-#REACT-REDUX BOİLERPLATE 
-####Simple requirements for creating a react app that will use redux for state management.
-#####Includes:
--React
--Redux
--File system 
--Minumum dependencies
--Concurrently
--React Router
+# MarkDown Previewer
+#### Free Code Camp's 2'nd Project for the Front End Certification
+##### Used:
+- React
+- Marked.js
+

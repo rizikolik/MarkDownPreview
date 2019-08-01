@@ -8,8 +8,8 @@ class Preview extends React.Component{
 
 render(){
     return(
-<div  id="preview">
-This par will be loaded by edit
+<div  id="preview" >
+
 
 </div>
 
