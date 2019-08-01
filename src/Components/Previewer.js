@@ -1,11 +1,6 @@
 import React from "react";
 import "./preview.css";
 class Preview extends React.Component{
-    constructor(props){
-        super(props);
-    }
-
-
 render(){
     return(
         <div className="preview-wrapper">

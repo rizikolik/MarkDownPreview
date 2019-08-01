@@ -1,7 +1,7 @@
 {
   "name": "markdownpreview",
   "version": "0.1.0",
-  "homepage": "https://rizikolik.github.io/MarkDownPreview",
+  "homepage": "https://rizikolik.github.io/MarkDownPreview/",
   "private": true,
   "dependencies": {
     "concurrently": "^4.1.1",
