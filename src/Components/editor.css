@@ -1,0 +1,11 @@
+#editor{
+  width:99%;  
+ 
+    
+}
+.editor-wrapper{
+  width:50%;
+    border:1px solid gray;
+   margin:auto;
+   margin-bottom:2em;
+}

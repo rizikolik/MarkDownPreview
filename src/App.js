@@ -9,8 +9,9 @@ function App() {
 
 
   const placeholder = 
-`# Welcome to my React Markdown Previewer! 
-
+`# This is a huge h1
+Just write  whatever  you want inside the editor  and see the editor .Also you can see the **test** results from the  green menu at the left
+of the screeen..
 ## This is h2 .
 ### And this is h3 and other stuff:
   
@@ -32,14 +33,14 @@ both: **_both!_**
 
 
 Lİnks that open with a new tab: [links](https://www.freecodecamp.com), and
->  Qutotes..
+> Qutotes..
 
 
 
-- Here are the list items :
+- Here are the list items:
   - Some are bulleted.
-     - With different indentation levels.
-        - That look like this.
+    - With different indentation levels.
+     - That look like this.
 
 
 1. now numbered lists:

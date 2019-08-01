@@ -1,0 +1,12 @@
+.preview-wrapper{
+    width:50%;
+    margin:auto;
+    border:1px solid gray;
+}
+#preview{
+    width:100%;
+    text-align:center;
+    border:1px solid gray;
+   
+    text-align: left;
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import marked from "marked";
-
+import "./editor.css";
 var renderer = new marked.Renderer();
 class Editor extends React.Component{
     constructor(props){
@@ -10,16 +10,11 @@ class Editor extends React.Component{
        }
 
         this.handleChange=this.handleChange.bind(this)
-    
-       
     }
-  
-      
-    
-
-    componentDidMount(){
+  componentDidMount(){
         marked.setOptions({
-    breaks:true
+    breaks:true,
+    
         });
         
         renderer.link = function( href, title, text ) {
@@ -33,18 +28,11 @@ handleChange(e){
     let preview=window.document.getElementById("preview");
     preview.innerHTML=marked(e.target.value,{renderer:renderer})
 }
-
-
-
-
-
 render(){
-   
-       
-    
     return(
 <div className="editor-wrapper">
-<textarea  id="editor"defaultValue={this.state.value}  onChange={this.handleChange}>
+    <h3>EDITOR</h3>
+<textarea  rows={20} cols={20} id="editor" defaultValue={this.state.value}  onChange={this.handleChange}>
 
 </textarea>
 
