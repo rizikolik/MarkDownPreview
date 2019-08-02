@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MarkDownPreview/static/css/main.f447e58a.chunk.css",
+    "main.js": "/MarkDownPreview/static/js/main.f66e7300.chunk.js",
+    "main.js.map": "/MarkDownPreview/static/js/main.f66e7300.chunk.js.map",
+    "runtime~main.js": "/MarkDownPreview/static/js/runtime~main.4cd19278.js",
+    "runtime~main.js.map": "/MarkDownPreview/static/js/runtime~main.4cd19278.js.map",
+    "static/js/2.f05e169e.chunk.js": "/MarkDownPreview/static/js/2.f05e169e.chunk.js",
+    "static/js/2.f05e169e.chunk.js.map": "/MarkDownPreview/static/js/2.f05e169e.chunk.js.map",
+    "index.html": "/MarkDownPreview/index.html",
+    "precache-manifest.a909b25633dd745e120a412e432f261f.js": "/MarkDownPreview/precache-manifest.a909b25633dd745e120a412e432f261f.js",
+    "service-worker.js": "/MarkDownPreview/service-worker.js",
+    "static/css/main.f447e58a.chunk.css.map": "/MarkDownPreview/static/css/main.f447e58a.chunk.css.map"
+  }
+}
